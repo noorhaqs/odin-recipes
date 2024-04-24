@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+
+<meta charset="UTF-8">
+<h1>Odin Recipes<h1>
+<a href ="recipes/lasagna.html" target="_blank" rel="noopener noreferrer">Mexican Lasagna - No Lasagna Noodles</a>
+
+</head>
+
+<body>
+
+</body>
+
+
+
+
+</HTML>
